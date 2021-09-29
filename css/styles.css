@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 1.56em;
+  background-color: #E05D5D;
+
+}
+
+h1 {
+  font-family: 'Calligraffitti', cursive;
+}
+
+h2 {
+  font-family: 'Calligraffitti', cursive;
+}
+
+h3 {
+  font-family: 'Calligraffitti', cursive;
+}
+
+
+.skill-row {
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+}
+
+.middle-container {
+  background-color: #FFF8E5
+}
+
+.profile{
+  background-color: #FFB344;
+  padding: 50px;
+  color: #0A043C;
+
+
+}
+.title {
+  margin: 50px auto 0 auto;
+  font-size: 5.6rem;
+  margin-top: 0;
+  position: relative;
+  top: 30px;
+  color: #FFF8E5;
+}
+
+.subtitle {
+  font-weight: lighter;
+  font-family: 'Dancing Script', cursive;
+  color: #FFF8E5;
+  font-size: 2.1rem;
+}
+
+.skills{
+  background-color: #FFF8E5;
+  color:#00A19D;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #00A19D;
+  border: 100px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.icon-image{
+  border-radius: 10%;
+  width: 250px;
+
+}
+
+.skill-image{
+  float: left;
+  margin-top: 30px;
+  margin-right: 0;
+  border-radius: 50%;
+  width: 20%;
+}
+
+.skill-image2{
+  float: right;
+  margin-top: 20px;
+  margin-right: 300px;
+  border-radius: 50%;
+  width: 20%;
+}
+
+.icing-skill{
+  margin-left: 200px;
+}
+
+.contact-me{
+  padding:50px;
+  background-color:  #E05D5D;
+  color:#FFF8E5
+}
+
+.bottom-container{
+  color: #FFF8E5;
+}
